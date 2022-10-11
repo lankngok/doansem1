@@ -1,0 +1,61 @@
+<app-header></app-header>
+<h2 class="text-center mt-4 mb-5">GIỎ HÀNG</h2>
+<div class="container mb-5">
+  <div class="row">
+    <div class="col-lg-8">
+      <table class="table">
+        <thead>
+          <tr>
+            <th>SẢN PHẨM</th>
+            <th>GIÁ</th>
+            <th>SỐ LƯỢNG</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let item of cart">
+            <td scope="row">
+              <a class="cursor" (click)="deletee(item.id)">
+                <i class="far fa-times-circle"></i>
+              </a>
+              <img src="{{item.detail.img}}" alt="" width="80px">
+              <span routerLink="/detail/{{item.id}}">{{item.name}}</span>
+            </td>
+            <td>{{(item.detail.price)}}$</td>
+            <td>
+              <div class="input mb-4">
+                <button class="btn-fake left" id="giam">-</button>
+                <input type="text" name="" id="" value="1">
+                <button class="btn-fake right" id="tang">+</button>
+              </div>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="col-lg-4">
+      <div class="gio-hang">
+        <div class="tinh">
+          <span>Tạm tính</span>
+          <span>
+            {{total}} $
+          </span>
+        </div>
+        <hr>
+        <div class="tong">
+          <span>Thành tiền</span>
+          <span class="gia">{{total}}$</span>
+        </div>
+        <hr>
+      </div>
+      <div class="but">
+        <button class="pay mb-3">THANH TOÁN NGAY</button>
+        <button class="buy mb-3">MUA NGAY <br><span>QR code, Visa/Master, Chuyển Khoản</span></button>
+        <button class="credit mb-3">THANH TOÁN QUA THẺ <br><span>Visa, Master, JCB</span></button>
+        <button class="continue mb-3" routerLink="/">TIẾP TỤC MUA HÀNG</button>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="mt-5">
+  <app-footer></app-footer>
+</div>

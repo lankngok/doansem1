@@ -1,0 +1,94 @@
+.fa-times-circle {
+  font-size: 25px;
+  margin-top: 25px;
+  color: gray;
+}
+
+.btn-fake {
+  padding: 4px;
+  width: 30px;
+  border: 1px solid grey;
+}
+
+.input input {
+  padding: 3px;
+  width: 50px;
+  text-align: center;
+}
+
+.input .left {
+  margin-right: 0px;
+}
+
+.input .right {
+  margin-left: 0px;
+}
+
+.tinh,
+.tong {
+  display: flex;
+  justify-content: space-between;
+  font-weight: bold;
+}
+
+.gia {
+  font-size: 25px;
+  color: #f97e6c;
+}
+
+.pay {
+  width: 350px;
+  padding: 15px;
+  border: none;
+  color: white;
+  background-color: black;
+  cursor: pointer;
+}
+
+.buy {
+  width: 350px;
+  padding: 7px;
+  border: none;
+  color: white;
+  background-color: #bc0d0d;
+  cursor: pointer;
+}
+
+.credit {
+  width: 350px;
+  padding: 7px;
+  border: none;
+  color: white;
+  background-color: #00b0f0;
+  cursor: pointer;
+}
+
+.continue {
+  width: 350px;
+  padding: 15px;
+  border: 1px solid black;
+  color: black;
+  background-color: white;
+  cursor: pointer;
+}
+
+@media screen and (max-width:320px) {
+  .fa-times-circle {
+    display: none;
+  }
+
+  .btn-fake {
+    padding: 4px;
+    width: 16px;
+    border: 1px solid grey;
+  }
+
+  .input input {
+    padding: 3px;
+    width: 25px;
+    text-align: center;
+  }
+}
+.cursor{
+  cursor: pointer !important;
+}

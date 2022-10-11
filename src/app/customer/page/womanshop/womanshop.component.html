@@ -1,0 +1,144 @@
+<app-header></app-header>
+
+<div class="main">
+  <div class="banner">
+    <img
+      src="https://www.danielwellington.com/ecom2-image-bucket/mv3xw5mnbbp0/5PDZ4DutoMwqiMv5OMNFMo/676210a3e6bbb3b85f9ec4dee7a8e18b/d-lumine-collection-hero-lumine.jpg?ecom2=true&format=jpg&width=1920&quality=80&bg-color=FFFFFF"
+      alt="" class="card-img">
+    <h1 class="contact text-white">WOMAN'S SHOP</h1>
+  </div>
+  <div class="container mt-5">
+    <div class="row align-items-center justify-content-between">
+      <div class="col-lg-3 col-md-6 col-sm-12">
+        <div class="card" style="width: 17rem;">
+          <img class="card-img-top"
+            src="https://www.danielwellington.com/product-images/DW00100513_Petite_28-mToZ1Y7r.png?ecom2=true&format=jpg&canvas=1%3A1&width=960&quality=80&bg-color=FFFFFF&fbclid=IwAR2SsN6wPFYvnoFpHdbk8SFU8-gAUUjhb1XMmg-heCQxp2CUToaq7ZrX29Y"
+            alt="Card image cap">
+          <div class="card-body">
+            <div class="text-center">
+              <p class="h4">Black Link</p>
+            </div>
+            <div class="price d-flex align-items-center justify-content-between">
+              <!-- <p class="card-text opcaity"><del>4,600,000 vnd</del></p> -->
+              <!-- <p class="sale">3,200,000 vnd</p> -->
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-3 col-md-6 col-sm-12">
+        <div class="card" style="width: 17rem;">
+          <img class="card-img-top"
+            src="https://www.danielwellington.com/product-images/dw00100214_link_28_r-rp8DqoUJ.png?ecom2=true&format=jpg&canvas=1%3A1&width=400&quality=80&bg-color=FFFFFF&fbclid=IwAR1oPURwCuKYQ_R5qYel2L8mDTfxgQtcRJJoGM7tcXqG7T6CaK_MkBvrcyk"
+            alt="Card image cap">
+          <div class="card-body">
+            <div class="text-center">
+              <p class="h4">Black Link</p>
+            </div>
+            <div class="price d-flex align-items-center justify-content-between">
+              <!-- <p class="card-text opcaity"><del>4,600,000 vnd</del></p> -->
+              <!-- <p class="sale">3,200,000 vnd</p> -->
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-3 col-md-6 col-sm-12">
+        <div class="card" style="width: 17rem;">
+          <img class="card-img-top"
+            src="https://www.danielwellington.com/product-images/DW00100555_Iconic_Li-qgm-1BCM.png?ecom2=true&format=jpg&canvas=1%3A1&width=960&quality=80&bg-color=FFFFFF&fbclid=IwAR2fOX2OGMJED-WtN68xb6WpS_fWHk9MTYseW00Wfd3kIASaBQv1BG_5kVg"
+            alt="Card image cap">
+          <div class="card-body">
+            <div class="text-center">
+              <p class="h4">Black Link</p>
+            </div>
+            <div class="price d-flex align-items-center justify-content-between">
+              <!-- <p class="card-text opcaity"><del>4,600,000 vnd</del></p> -->
+              <!-- <p class="sale">3,200,000 vnd</p> -->
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-3 col-md-6 col-sm-12">
+        <div class="card bg-card" style="width: 17rem;">
+          <div class="text-center m-auto">
+            <p class="heading">
+              YOU DESERVE IT
+            </p>
+            <p>USE CODE DWXYOU15 AT CHECKOUT FOR 15% OFF YOUR PURCHASE</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- filter  -->
+  <div class="filter-gr container mt-5">
+    <div class="d-flex align-items-center">
+      <button class="btn-filter">
+        <i class="fa fa-filter" aria-hidden="true"></i>
+        Filter
+      </button>
+      <button class="btn-filter">
+        <i class="fa fa-sort" aria-hidden="true"></i>
+        Sort by
+      </button>
+    </div>
+  </div>
+</div>
+<div class="content">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-3" *ngFor="let item of list">
+        <div class="card cur mt-5" routerLink="/detail/{{item.id}}">
+          <img class="card-img-top" width="255px" height="255px" src="{{item.detail.img}}" alt="">
+          <div class="card-body bg-light">
+            <h5 class="card-title text-center prod_name text-truncate text-dark">{{item.name}}</h5>
+            <div class="prices d-flex text-center justify-content-around">
+              <p class="product-price">
+                <span class="root-pr"><del>{{item.detail.price}} $</del></span>
+                <span class="sale-pr">{{(item.detail.price ) - 20 }} $</span>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  <div class="container">
+    <div class="banner mt-5">
+      <img
+        src="https://www.danielwellington.com/ecom2-image-bucket/mv3xw5mnbbp0/4LP7A0DktDnQv6MlsDLBNV/2f8cb75eeadee343ba60e50919244264/collection_elan_hero_2800x850.jpg?ecom2=true&format=jpg&width=1920&quality=80&bg-color=FFFFFF&fbclid=IwAR3CSJixfmlnIbsjxLOp3yXZ5PozManX035NWXFF7mZGKINszaNXkpFth28"
+        alt="" class="card-img">
+      <h5 class="contact1 text-dark">BST PHỤ KIỆN</h5>
+      <h5 class="contact2 text-dark ">RỰC RỠ TỪ NHỮNG ĐIỂM NHẤN TINH TẾ</h5>
+    </div>
+  </div>
+  <div class="content ">
+    <div class="container">
+      <div class="text-center">
+        <div class="h3 text-uppercase mt-5">
+          Phụ Kiện
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-lg-3" *ngFor="let item of listPk">
+          <div class="card cur mt-5" routerLink="/detail/{{item.id}}">
+            <img class="card-img-top" width="255px" height="255px" src="{{item.detail.img}}" alt="">
+            <div class="card-body bg-light">
+              <h5 class="card-title text-center prod_name text-truncate text-dark">{{item.name}}</h5>
+              <div class="prices d-flex text-center justify-content-around">
+                <p class="product-price">
+                  <span class="root-pr"><del>{{item.detail.price}} $</del></span>
+                  <span class="sale-pr">{{(item.detail.price ) - 20 }} $</span>
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="mt-5">
+    <app-footer></app-footer>
+  </div>

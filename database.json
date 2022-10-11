@@ -1,0 +1,947 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "category_id": 1,
+      "name": "QUADRO LUMINE PRESSED MELROSE",
+      "detail": {
+        "price": 150,
+        "sku": "DW00100527",
+        "thickness": "6mm",
+        "dialcolor": "Trắng sữa",
+        "movement": "Động cơ chuyển động Quartz",
+        "strap": "Dây Mesh (Lưới)",
+        "strap_color": "Vàng hồng",
+        "img": "https://www.danielwellington.com/product-images/DW00100527_Quadro_20-wc3A21e0.png?ecom2=true&format=jpg&canvas=1:1&width=960&quality=80&bg-color=FFFFFF"
+      }
+    },
+    {
+      "id": 2,
+      "category_id": 1,
+      "name": "PETITE LUMINE PRESSED PIANO",
+      "detail": {
+        "price": 160,
+        "sku": "DW00100590",
+        "thickness": "6mm",
+        "dialcolor": "White Mother of Pearl",
+        "movement": "Động cơ chuyển động Quartz",
+        "strap": "Pressed Piano Link",
+        "strap_color": "Vàng hồng",
+        "img": "https://www.danielwellington.com/product-images/DW00100590_Petite_Pr-_6YbIRRy.png?ecom2=true&format=jpg&canvas=1:1&width=960&quality=80&bg-color=FFFFFF"
+      }
+    },
+    {
+      "id": 3,
+      "category_id": 1,
+      "name": "ICONIC LINK",
+      "detail": {
+        "price": 170,
+        "sku": "DW00100213",
+        "thickness": "8mm",
+        "dialcolor": "Trắng sữa",
+        "movement": "Động cơ chuyển động Quartz",
+        "strap": "Dây Link",
+        "strap_color": "Vàng hồng",
+        "img": "https://www.danielwellington.com/product-images/dw00100214_link_28_r-rp8DqoUJ.png?ecom2=true&format=jpg&canvas=1:1&width=400&quality=80&bg-color=FFFFFF"
+      }
+    },
+    {
+      "id": 4,
+      "category_id": 1,
+      "name": "ICONIC MOTION",
+      "detail": {
+        "price": 180,
+        "sku": "DW00100611",
+        "thickness": "10mm",
+        "dialcolor": "Đen",
+        "movement": "Động cơ chuyển động Quartz",
+        "strap": "Dây cao su tổng hợp",
+        "strap_color": "Đen",
+        "img": "https://www.danielwellington.com/product-images/DW00100611_Iconic_Mo-TSL2IUWq.png?ecom2=true&format=jpg&canvas=1:1&width=960&quality=80&bg-color=FFFFFF"
+      }
+    },
+    {
+      "id": 5,
+      "category_id": 1,
+      "name": "QUADRO PRESSED EVERGOLD",
+      "detail": {
+        "price": 190,
+        "sku": "DW00100556",
+        "thickness": "6mm",
+        "dialcolor": "Trắng sữa",
+        "movement": "Động cơ chuyển động Quartz",
+        "strap": "Dây Mesh (Lưới)",
+        "strap_color": "Vàng",
+        "img": "https://www.danielwellington.com/product-images/DW00100556_Quadro_20-PvlGDXqM.png?ecom2=true&format=jpg&canvas=1:1&width=960&quality=80&bg-color=FFFFFF"
+      }
+    },
+    {
+      "id": 6,
+      "category_id": 1,
+      "name": "ICONIC MOTION RUBY",
+      "detail": {
+        "price": 200,
+        "sku": "DW00100503",
+        "thickness": "8,5mm",
+        "dialcolor": "Red",
+        "movement": "Động cơ chuyển động Quartz",
+        "strap": "Dây cao su tổng hợp",
+        "strap_color": "Đỏ hồng ngọc",
+        "img": "https://www.danielwellington.com/product-images/DW00100503_%E7%94%BB%E6%9D%BF%E5%89%AF%E6%9C%AC18-kODnpdcS.png?ecom2=true&format=jpg&canvas=1:1&width=960&quality=80&bg-color=FFFFFF"
+      }
+    },
+    {
+      "id": 7,
+      "category_id": 1,
+      "name": "QUADRO PRESSED MELROSE",
+      "detail": {
+        "price": 210,
+        "sku": "DW00100510",
+        "thickness": "6mm",
+        "dialcolor": "Hồng ngọc trai",
+        "movement": "Động cơ chuyển động Quartz",
+        "strap": "Dây Mesh (Lưới)",
+        "strap_color": "Vàng hồng",
+        "img": "https://www.danielwellington.com/product-images/DW00100510_Quadro_20-2UHXOthx.png?ecom2=true&format=jpg&canvas=1:1&width=960&quality=80&bg-color=FFFFFF"
+      }
+    },
+    {
+      "id": 8,
+      "category_id": 1,
+      "name": "PETITE MELROSE PEARL",
+      "detail": {
+        "price": 220,
+        "sku": "DW00100513",
+        "thickness": "6mm",
+        "dialcolor": "Hồng ngọc trai",
+        "movement": "Động cơ chuyển động Quartz",
+        "strap": "Mắt lưới",
+        "strap_color": "Vàng hồng",
+        "img": "https://www.danielwellington.com/product-images/DW00100513_Petite_28-mToZ1Y7r.png?ecom2=true&format=jpg&canvas=1:1&width=960&quality=80&bg-color=FFFFFF"
+      }
+    },
+    {
+      "id": 9,
+      "category_id": 1,
+      "name": "PETITE ASHFIELD",
+      "detail": {
+        "price": 230,
+        "sku": "DW00100245",
+        "thickness": "6mm",
+        "dialcolor": "Đen",
+        "movement": "Động cơ chuyển động Quartz",
+        "strap": "Mắt lưới",
+        "strap_color": "Đen",
+        "img": "https://www.danielwellington.com/product-images/dw00100245_petite_as-rh-yEpjm.png?ecom2=true&format=jpg&canvas=1:1&width=960&quality=80&bg-color=FFFFFF"
+      }
+    },
+    {
+      "id": 10,
+      "category_id": 1,
+      "name": "PETITE ROSELYN",
+      "detail": {
+        "price": 240,
+        "sku": "DW00100293",
+        "thickness": "6mm",
+        "dialcolor": "Trắng sữa",
+        "movement": "Động cơ chuyển động Quartz",
+        "strap": "Dây NATO",
+        "strap_color": "Đỏ hồng ngọc",
+        "img": "https://www.danielwellington.com/product-images/dw_classic_petite_ro-A4dQ_L02.png?ecom2=true&format=jpg&canvas=1:1&width=960&quality=80&bg-color=FFFFFF"
+      }
+    },
+    {
+      "id": 11,
+      "category_id": 1,
+      "name": "CLASSIC CANTERBURY",
+      "detail": {
+        "price": 250,
+        "sku": "DW00100030",
+        "thickness": "6mm",
+        "dialcolor": "Trắng sữa",
+        "movement": "Động cơ chuyển động Quartz",
+        "strap": "Dây NATO",
+        "strap_color": "Xanh/Hồng/Trắng",
+        "img": "https://www.danielwellington.com/product-images/cl36-canterbury-rg_2-BEHMR9Ta.png?ecom2=true&format=jpg&canvas=1:1&width=960&quality=80&bg-color=FFFFFF"
+      }
+    },
+    {
+      "id": 12,
+      "category_id": 1,
+      "name": "CLASSIC DURHAM",
+      "detail": {
+        "price": 260,
+        "sku": "DW00100111",
+        "thickness": "8mm",
+        "dialcolor": "Trắng sữa",
+        "movement": "Động cơ chuyển động Quartz",
+        "strap": "Dây da",
+        "strap_color": "Nâu sáng",
+        "img": "https://www.danielwellington.com/product-images/cl36-durham-rg-cat_1-eV0zca4M.png?ecom2=true&format=jpg&canvas=1:1&width=960&quality=80&bg-color=FFFFFF"
+      }
+    },
+    {
+      "id": 13,
+      "category_id": 1,
+      "name": "PETITE ST MAWES",
+      "detail": {
+        "price": 270,
+        "sku": "DW00100225",
+        "thickness": "6mm",
+        "dialcolor": "Đen",
+        "movement": "Động cơ chuyển động Quartz",
+        "strap": "Dây da",
+        "strap_color": "Nâu",
+        "img": "https://www.danielwellington.com/product-images/dw00100225_petite_st-cq78F_-V.png?ecom2=true&format=jpg&canvas=1:1&width=960&quality=80&bg-color=FFFFFF"
+      }
+    },
+    {
+      "id": 14,
+      "category_id": 1,
+      "name": "CLASSIC SUFFOLK",
+      "detail": {
+        "price": 280,
+        "sku": "DW00100122",
+        "thickness": "6mm",
+        "dialcolor": "Trắng sữa",
+        "movement": "Động cơ chuyển động Quartz",
+        "strap": "Dây da",
+        "strap_color": "Đỏ",
+        "img": "https://www.danielwellington.com/product-images/dw_classic_suffolk_3-wKMJevvz.png?ecom2=true&format=jpg&canvas=1:1&width=960&quality=80&bg-color=FFFFFF"
+      }
+    },
+    {
+      "id": 15,
+      "category_id": 1,
+      "name": "PETITE ASHFIELD",
+      "detail": {
+        "price": 290,
+        "sku": "DW00100245",
+        "thickness": "6mm",
+        "dialcolor": "Trắng sữa",
+        "movement": "Động cơ chuyển động Quartz",
+        "strap": "Mắt lưới",
+        "strap_color": "Đen",
+        "img": "https://www.danielwellington.com/product-images/dw00100214_link_28_r-rp8DqoUJ.png?ecom2=true&format=jpg&canvas=1:1&width=400&quality=80&bg-color=FFFFFF"
+      }
+    },
+    {
+      "id": 16,
+      "category_id": 1,
+      "name": "PETITE ROSEWATER",
+      "detail": {
+        "price": 300,
+        "sku": "DW00100319",
+        "thickness": "6mm",
+        "dialcolor": "Trắng sữa",
+        "movement": "Động cơ chuyển động Quartz",
+        "strap": "Dây NATO",
+        "strap_color": "Hồng",
+        "img": "https://www.danielwellington.com/product-images/dw00100319_petite_ro-1N_qli2g.png?ecom2=true&format=jpg&canvas=1:1&width=960&quality=80&bg-color=FFFFFF"
+      }
+    },
+    {
+      "id": 17,
+      "category_id": 2,
+      "name": "ICONIC LINK AUTOMATIC",
+      "detail": {
+        "price": 310,
+        "sku": "DW00100482",
+        "thickness": "11,5mm",
+        "dialcolor": "Đen",
+        "movement": "Động cơ chuyển động Quartz",
+        "strap": "Dây Link",
+        "strap_color": "Bạc",
+        "img": "https://www.danielwellington.com/product-images/DW00100482_Iconic_Li-gTM2-XaQ.png?ecom2=true&format=jpg&canvas=1:1&width=960&quality=80&bg-color=FFFFFF"
+      }
+    },
+    {
+      "id": 18,
+      "category_id": 2,
+      "name": "ICONIC LINK ARCTIC",
+      "detail": {
+        "price": 320,
+        "sku": "DW00100448",
+        "thickness": "9,5mm",
+        "dialcolor": "Blue",
+        "movement": "Động cơ chuyển động Quartz",
+        "strap": "Dây Link",
+        "strap_color": "Bạc",
+        "img": "https://www.danielwellington.com/product-images/DW00100448_Iconic_Li-m5oeO0v9.png?ecom2=true&format=jpg&canvas=1:1&width=960&quality=80&bg-color=FFFFFF"
+      }
+    },
+    {
+      "id": 19,
+      "category_id": 2,
+      "name": "ICONIC LINK EMERALD",
+      "detail": {
+        "price": 330,
+        "sku": "DW00100555",
+        "thickness": "8mm",
+        "dialcolor": "Xanh lục",
+        "movement": "Động cơ chuyển động Quartz",
+        "strap": "Dây Link",
+        "strap_color": "Vàng",
+        "img": "https://www.danielwellington.com/product-images/DW00100555_Iconic_Li-qgm-1BCM.png?ecom2=true&format=jpg&canvas=1:1&width=960&quality=80&bg-color=FFFFFF"
+      }
+    },
+    {
+      "id": 20,
+      "category_id": 2,
+      "name": "ICONIC LINK AMBER",
+      "detail": {
+        "price": 340,
+        "sku": "DW00100460",
+        "thickness": "9,5mm",
+        "dialcolor": "Nâu",
+        "movement": "Động cơ chuyển động Quartz",
+        "strap": "Dây Link",
+        "strap_color": "Vàng hồng",
+        "img": "https://www.danielwellington.com/product-images/dw00100214_link_28_r-rp8DqoUJ.png?ecom2=true&format=jpg&canvas=1:1&width=400&quality=80&bg-color=FFFFFF"
+      }
+    },
+    {
+      "id": 21,
+      "category_id": 2,
+      "name": "PETITE ASHFIELD",
+      "detail": {
+        "price": 350,
+        "sku": "DW00100213",
+        "thickness": "8mm",
+        "dialcolor": "Đen",
+        "movement": "Động cơ chuyển động Quartz",
+        "strap": "Mắt lưới",
+        "strap_color": "Đen",
+        "img": "https://www.danielwellington.com/product-images/dw00100308_classic_p-_kxLQtc3.png?ecom2=true&format=jpg&canvas=1:1&width=960&quality=80&bg-color=FFFFFF"
+      }
+    },
+    {
+      "id": 22,
+      "category_id": 2,
+      "name": "CLASSIC BRISTOL",
+      "detail": {
+        "price": 360,
+        "sku": "DW00100023",
+        "thickness": "6mm",
+        "dialcolor": "Trắng sữa",
+        "movement": "Động cơ chuyển động Quartz",
+        "strap": "Dây da",
+        "strap_color": "Nâu đậm",
+        "img": "https://www.danielwellington.com/product-images/dw00100214_link_28_r-rp8DqoUJ.png?ecom2=true&format=jpg&canvas=1:1&width=400&quality=80&bg-color=FFFFFF"
+      }
+    },
+    {
+      "id": 23,
+      "category_id": 2,
+      "name": "CLASSIC DURHAM",
+      "detail": {
+        "price": 370,
+        "sku": "DW00100110",
+        "thickness": "6mm",
+        "dialcolor": "Trắng sữa",
+        "movement": "Động cơ chuyển động Quartz",
+        "strap": "Dây da",
+        "strap_color": "Nâu sáng",
+        "img": "https://www.danielwellington.com/product-images/dw00100214_link_28_r-rp8DqoUJ.png?ecom2=true&format=jpg&canvas=1:1&width=400&quality=80&bg-color=FFFFFF"
+      }
+    },
+    {
+      "id": 24,
+      "category_id": 2,
+      "name": "CLASSIC YORK",
+      "detail": {
+        "price": 380,
+        "sku": "DW00100134",
+        "thickness": "6mm",
+        "dialcolor": "Đen",
+        "movement": "Động cơ chuyển động Quartz",
+        "strap": "Dây da",
+        "strap_color": "Nâu đậm",
+        "img": "https://www.danielwellington.com/product-images/dw-classic-black-yor-KMQ0nqfb.png?ecom2=true&format=jpg&canvas=1:1&width=768&quality=80&bg-color=FFFFFF"
+      }
+    },
+    {
+      "id": 25,
+      "category_id": 2,
+      "name": "CLASSIC CORNWALL",
+      "detail": {
+        "price": 390,
+        "sku": "DW00100149",
+        "thickness": "6mm",
+        "dialcolor": "Đen",
+        "movement": "Động cơ chuyển động Quartz",
+        "strap": "Dây NATO",
+        "strap_color": "Đen",
+        "img": "https://www.danielwellington.com/product-images/dw-classic-black-cor-CRH9opd4.png?ecom2=true&format=jpg&canvas=1:1&width=768&quality=80&bg-color=FFFFFF"
+      }
+    },
+    {
+      "id": 26,
+      "category_id": 2,
+      "name": "CLASSIC OXFORD",
+      "detail": {
+        "price": 400,
+        "sku": "DW00100015",
+        "thickness": "6mm",
+        "dialcolor": "Trắng sữa",
+        "movement": "Động cơ chuyển động Quartz",
+        "strap": "Dây NATO",
+        "strap_color": "Xanh/Đỏ",
+        "img": "https://www.danielwellington.com/product-images/cl40-oxford-s-_UIpqOE5.png?ecom2=true&format=jpg&canvas=1:1&width=960&quality=80&bg-color=FFFFFF"
+      }
+    },
+    {
+      "id": 27,
+      "category_id": 2,
+      "name": "CLASSIC SHEFFIELD",
+      "detail": {
+        "price": 390,
+        "sku": "DW00100544",
+        "thickness": "8mm",
+        "dialcolor": "Đen",
+        "movement": "Động cơ chuyển động Quartz",
+        "strap": "Dây da",
+        "strap_color": "Đen",
+        "img": "https://www.danielwellington.com/product-images/DW00100544_Classic_S-edcavx1t.png?ecom2=true&format=jpg&canvas=1:1&width=960&quality=80&bg-color=FFFFFF"
+      }
+    },
+    {
+      "id": 28,
+      "category_id": 2,
+      "name": "CLASSIC BAYSWATER",
+      "detail": {
+        "price": 380,
+        "sku": "DW00100276",
+        "thickness": "6mm",
+        "dialcolor": "Trắng sữa",
+        "movement": "Động cơ chuyển động Quartz",
+        "strap": "Dây NATO",
+        "strap_color": "Xanh dương",
+        "img": "https://www.danielwellington.com/product-images/cl40-bayswater-s-RXHiYkHL.png?ecom2=true&format=jpg&canvas=1:1&width=960&quality=80&bg-color=FFFFFF"
+      }
+    },
+    {
+      "id": 29,
+      "category_id": 3,
+      "name": "CLASSIC LUMINE UNITY",
+      "detail": {
+        "price": 370,
+        "sku": "DW00400220",
+        "color": "Hồng vàng",
+        "material": "Double Plated stainless steel, Crystal",
+        "img": "https://www.danielwellington.com/product-images/DW00400355_Classic_L-WBfPxNJM.png?ecom2=true&format=jpg&canvas=1:1&width=960&quality=80&bg-color=FFFFFF"
+      }
+    },
+    {
+      "id": 30,
+      "category_id": 3,
+      "name": "CLASSIC LUMINE RING",
+      "detail": {
+        "price": 360,
+        "sku": "DW00400221",
+        "color": "Hồng vàng",
+        "material": "Double Plated stainless steel, Crystal",
+        "img": "https://www.danielwellington.com/product-images/DW00400288_Classic_L-IUJSvImt.png?ecom2=true&format=jpg&canvas=1:1&width=960&quality=80&bg-color=FFFFFF"
+      }
+    },
+    {
+      "id": 31,
+      "category_id": 3,
+      "name": "EMALIE NECKLACE",
+      "detail": {
+        "price": 350,
+        "sku": "DW00400153",
+        "color": "Satin White",
+        "material": "Thép không gỉ mạ hai lớp, tráng men",
+        "img": "https://www.danielwellington.com/product-images/dw00400153_emalie_ne-ZjI4nZ4n.png?ecom2=true&format=jpg&canvas=1:1&width=960&quality=80&bg-color=FFFFFF"
+      }
+    },
+    {
+      "id": 32,
+      "category_id": 3,
+      "name": "ASPIRATION NECKLACE",
+      "detail": {
+        "price": 340,
+        "sku": "DW00400156",
+        "color": "Đen",
+        "material": "Thép không gỉ mạ hai lớp, tráng men",
+        "img": "https://www.danielwellington.com/product-images/DW00400355_Classic_L-WBfPxNJM.png?ecom2=true&format=jpg&canvas=1:1&width=960&quality=80&bg-color=FFFFFF"
+      }
+    },
+    {
+      "id": 33,
+      "category_id": 3,
+      "name": "ASPIRATION NECKLACE",
+      "detail": {
+        "price": 330,
+        "sku": "DW00400156",
+        "color": "Đen",
+        "material": "Thép không gỉ mạ hai lớp, tráng men",
+        "img": "https://www.danielwellington.com/product-images/dw00400156_aspiratio-pKgaLLuH.png?ecom2=true&format=jpg&canvas=1:1&width=960&quality=80&bg-color=FFFFFF"
+      }
+    },
+    {
+      "id": 34,
+      "category_id": 4,
+      "name": "CLASSIC LUMINE UNITY",
+      "detail": {
+        "price": 320,
+        "sku": "DW00400220",
+        "color": "Hồng vàng",
+        "material": "Double Plated stainless steel, Crystal",
+        "img": "https://www.danielwellington.com/product-images/DW00400355_Classic_L-WBfPxNJM.png?ecom2=true&format=jpg&canvas=1:1&width=960&quality=80&bg-color=FFFFFF"
+      }
+    },
+    {
+      "id": 35,
+      "category_id": 1,
+      "name": "PETITE YORK",
+      "detail": {
+        "price": 310,
+        "sku": "DW00100176",
+        "thickness": "6mm",
+        "dialcolor": "Trắng sữa",
+        "movement": "Động cơ chuyển động Quartz",
+        "strap": "Dây da",
+        "strap_color": "Nâu đậm",
+        "img": "https://www.danielwellington.com/product-images/dw-petite-york-rg-wh-t7s11VN9.png?ecom2=true&format=jpg&canvas=1:1&width=960&quality=80&bg-color=FFFFFF"
+      }
+    },
+    {
+      "id": 36,
+      "category_id": 1,
+      "name": "PETITE DURHAM",
+      "detail": {
+        "price": 300,
+        "sku": "DW00100166",
+        "thickness": "6mm",
+        "dialcolor": "Đen",
+        "movement": "Động cơ chuyển động Quartz",
+        "strap": "Dây da",
+        "strap_color": "Nâu sáng",
+        "img": "https://www.danielwellington.com/product-images/dw-petite-durham-rg--c1JKpMbF.png?ecom2=true&format=jpg&canvas=1:1&width=960&quality=80&bg-color=FFFFFF"
+      }
+    },
+    {
+      "id": 37,
+      "category_id": 1,
+      "name": "PETITE SUFFOLK",
+      "detail": {
+        "price": 290,
+        "sku": "DW00100266",
+        "thickness": "6mm",
+        "dialcolor": "Trắng sữa",
+        "movement": "Động cơ chuyển động Quartz",
+        "strap": "Dây da",
+        "strap_color": "Đỏ",
+        "img": "https://www.danielwellington.com/product-images/dw00100266_petite_su-6Z_5G4N3.png?ecom2=true&format=jpg&canvas=1:1&width=960&quality=80&bg-color=FFFFFF"
+      }
+    },
+    {
+      "id": 38,
+      "category_id": 1,
+      "name": "CLASSIC SOMERSET",
+      "detail": {
+        "price": 280,
+        "sku": "DW00100121",
+        "thickness": "6mm",
+        "dialcolor": "Trắng sữa",
+        "movement": "Động cơ chuyển động Quartz",
+        "strap": "Dây da",
+        "strap_color": "Blue",
+        "img": "https://www.danielwellington.com/product-images/dw_classic_somerset_-B7lqPYVf.png?ecom2=true&format=jpg&canvas=1:1&width=960&quality=80&bg-color=FFFFFF"
+      }
+    },
+    {
+      "id": 39,
+      "category_id": 1,
+      "name": "CLASSIC WARWICK",
+      "detail": {
+        "price": 270,
+        "sku": "DW00100005",
+        "thickness": "6mm",
+        "dialcolor": "Trắng sữa",
+        "movement": "Động cơ chuyển động Quartz",
+        "strap": "Dây NATO",
+        "strap_color": "Xanh/Xanh lá",
+        "img": "https://www.danielwellington.com/product-images/cl40-warwick-rg_1_1-T7KsL-zj.png?ecom2=true&format=jpg&canvas=1:1&width=960&quality=80&bg-color=FFFFFF"
+      }
+    },
+    {
+      "id": 40,
+      "category_id": 1,
+      "name": "CLASSIC SOUTHAMPTON",
+      "detail": {
+        "price": 260,
+        "sku": "DW00100034",
+        "thickness": "6mm",
+        "dialcolor": "Trắng sữa",
+        "movement": "Động cơ chuyển động Quartz",
+        "strap": "Dây NATO",
+        "strap_color": "Xanh/Hồng/Trắng",
+        "img": "https://www.danielwellington.com/product-images/cl36-southport-rg-LQO7sr0u.png?ecom2=true&format=jpg&canvas=1:1&width=960&quality=80&bg-color=FFFFFF"
+      }
+    },
+    {
+      "id": 41,
+      "category_id": 1,
+      "name": "CLASSIC GLASGOW",
+      "detail": {
+        "price": 250,
+        "sku": "DW00100004",
+        "thickness": "6mm",
+        "dialcolor": "Trắng sữa",
+        "movement": "Động cơ chuyển động Quartz",
+        "strap": "Dây NATO",
+        "strap_color": "Xanh/Trắng",
+        "img": "https://www.danielwellington.com/product-images/cl40-glasgow-rg_3-tkU1HaMO.png?ecom2=true&format=jpg&canvas=1:1&width=960&quality=80&bg-color=FFFFFF"
+      }
+    },
+    {
+      "id": 42,
+      "category_id": 1,
+      "name": "CLASSIC CAMBRIDGE",
+      "detail": {
+        "price": 240,
+        "sku": "DW00100003",
+        "thickness": "6mm",
+        "dialcolor": "Trắng sữa",
+        "movement": "Động cơ chuyển động Quartz",
+        "strap": "Dây NATO",
+        "strap_color": "Xanh/Hồng/Trắng",
+        "img": "https://www.danielwellington.com/product-images/cl40-cambridge-rg_1-ZWRiHzRr.png?ecom2=true&format=jpg&canvas=1:1&width=960&quality=80&bg-color=FFFFFF"
+      }
+    },
+    {
+      "id": 43,
+      "category_id": 1,
+      "name": "CLASSIC READING",
+      "detail": {
+        "price": 230,
+        "sku": "DW00100141",
+        "thickness": "6mm",
+        "dialcolor": "Đen",
+        "movement": "Động cơ chuyển động Quartz",
+        "strap": "Dây da",
+        "strap_color": "Đen",
+        "img": "https://www.danielwellington.com/product-images/dw-classic-black-rea-0tpoytR4.png?ecom2=true&format=jpg&canvas=1:1&width=512&quality=80&bg-color=FFFFFF"
+      }
+    },
+    {
+      "id": 44,
+      "category_id": 1,
+      "name": "CLASSIC ST MAWES",
+      "detail": {
+        "price": 220,
+        "sku": "DW00100136",
+        "thickness": "6mm",
+        "dialcolor": "Đen",
+        "movement": "Động cơ chuyển động Quartz",
+        "strap": "Dây da",
+        "strap_color": "Nâu",
+        "img": "https://www.danielwellington.com/product-images/dw-classic-black-stm-uxzPLyKP.png?ecom2=true&format=jpg&canvas=1:1&width=960&quality=80&bg-color=FFFFFF"
+      }
+    },
+    {
+      "id": 45,
+      "category_id": 1,
+      "name": "CLASSIC ROSELYN",
+      "detail": {
+        "price": 210,
+        "sku": "DW00100034",
+        "thickness": "6mm",
+        "dialcolor": "Trắng sữa",
+        "movement": "Động cơ chuyển động Quartz",
+        "strap": "Dây NATO",
+        "strap_color": "Đỏ hồng ngọc",
+        "img": "https://www.danielwellington.com/product-images/cl36-roselyn-rg-hfNy7uDt.png?ecom2=true&format=jpg&canvas=1:1&width=960&quality=80&bg-color=FFFFFF"
+      }
+    },
+    {
+      "id": 46,
+      "category_id": 1,
+      "name": "CLASSIC DOVER",
+      "detail": {
+        "price": 200,
+        "sku": "DW00100309",
+        "thickness": "6mm",
+        "dialcolor": "Trắng sữa",
+        "movement": "Động cơ chuyển động Quartz",
+        "strap": "Dây NATO",
+        "strap_color": "Trắng",
+        "img": "https://www.danielwellington.com/product-images/dw00100309_classic_d-ztoNJSwc.png?ecom2=true&format=jpg&canvas=1:1&width=960&quality=80&bg-color=FFFFFF"
+      }
+    },
+    {
+      "id": 47,
+      "category_id": 1,
+      "name": "PETITE BRISTOL",
+      "detail": {
+        "price": 190,
+        "sku": "DW00100165",
+        "thickness": "6mm",
+        "dialcolor": "Đen",
+        "movement": "Động cơ chuyển động Quartz",
+        "strap": "Dây da",
+        "strap_color": "Nâu đậm",
+        "img": "https://www.danielwellington.com/product-images/dw-petite-bristol-rg-e_bWI9pp.png?ecom2=true&format=jpg&canvas=1:1&width=960&quality=80&bg-color=FFFFFF"
+      }
+    },
+    {
+      "id": 48,
+      "category_id": 1,
+      "name": "PETITE BONDI",
+      "detail": {
+        "price": 180,
+        "sku": "DW00100249",
+        "thickness": "6mm",
+        "dialcolor": "Trắng sữa",
+        "movement": "Động cơ chuyển động Quartz",
+        "strap": "Dây da",
+        "strap_color": "Trắng",
+        "img": "https://www.danielwellington.com/product-images/dw00100249_petite_bo-CuCzax2N.png?ecom2=true&format=jpg&canvas=1:1&width=960&quality=80&bg-color=FFFFFF"
+      }
+    },
+    {
+      "id": 49,
+      "category_id": 1,
+      "name": "PETITE READING",
+      "detail": {
+        "price": 170,
+        "sku": "DW00100223",
+        "thickness": "6mm",
+        "dialcolor": "Đen",
+        "movement": "Động cơ chuyển động Quartz",
+        "strap": "Dây da",
+        "strap_color": "Đen",
+        "img": "https://www.danielwellington.com/product-images/dw-petite-28-reading-BdkWEgkm.png?ecom2=true&format=jpg&canvas=1:1&width=960&quality=80&bg-color=FFFFFF"
+      }
+    },
+    {
+      "id": 50,
+      "category_id": 1,
+      "name": "PETITE CORNWALL",
+      "detail": {
+        "price": 160,
+        "sku": "DW00100034",
+        "thickness": "6mm",
+        "dialcolor": "Trắng sữa",
+        "movement": "Động cơ chuyển động Quartz",
+        "strap": "Dây NATO",
+        "strap_color": "Xanh/Hồng/Trắng",
+        "img": "https://www.danielwellington.com/product-images/cl36-southport-rg-LQO7sr0u.png?ecom2=true&format=jpg&canvas=1:1&width=960&quality=80&bg-color=FFFFFF"
+      }
+    },
+    {
+      "id": 51,
+      "category_id": 1,
+      "name": "PETITE DOVER",
+      "detail": {
+        "price": 150,
+        "sku": "DW00100311",
+        "thickness": "6mm",
+        "dialcolor": "Trắng sữa",
+        "movement": "Động cơ chuyển động Quartz",
+        "strap": "Dây NATO",
+        "strap_color": "Trắng",
+        "img": "https://www.danielwellington.com/product-images/dw00100311_petite_do-tUahnAgx.png?ecom2=true&format=jpg&canvas=1:1&width=960&quality=80&bg-color=FFFFFF"
+      }
+    },
+    {
+      "id": 52,
+      "category_id": 1,
+      "name": "PETITE MELROSE",
+      "detail": {
+        "price": 160,
+        "sku": "DW00100349",
+        "thickness": "6mm",
+        "dialcolor": "Đen",
+        "movement": "Động cơ chuyển động Quartz",
+        "strap": "Mắt lưới",
+        "strap_color": "Vàng hồng",
+        "img": "https://www.danielwellington.com/product-images/cl36-southport-rg-LQO7sr0u.png?ecom2=true&format=jpg&canvas=1:1&width=960&quality=80&bg-color=FFFFFF"
+      }
+    },
+    {
+      "id": 53,
+      "category_id": 1,
+      "name": "PETITE EVERGOLD",
+      "detail": {
+        "price": 170,
+        "sku": "DW00100034",
+        "thickness": "6mm",
+        "dialcolor": "Đen",
+        "movement": "Động cơ chuyển động Quartz",
+        "strap": "Mắt lưới",
+        "strap_color": "Vàng",
+        "img": "https://www.danielwellington.com/product-images/dw00100349_petite_28-GvJ7jy3L.png?ecom2=true&format=jpg&canvas=1:1&width=960&quality=80&bg-color=FFFFFF"
+      }
+    },
+    {
+      "id": 54,
+      "category_id": 1,
+      "name": "PETITE PRESSED ASHFIELD",
+      "detail": {
+        "price": 180,
+        "sku": "DW00100441",
+        "thickness": "6mm",
+        "dialcolor": "Đen",
+        "movement": "Động cơ chuyển động Quartz",
+        "strap": "Dây Mesh (Lưới)",
+        "strap_color": "Đen",
+        "img": "https://www.danielwellington.com/product-images/dw00100441_petite_24-uWLsWTxE.png?ecom2=true&format=jpg&canvas=1:1&width=960&quality=80&bg-color=FFFFFF"
+      }
+    },
+ 
+    {
+      "id": 55,
+      "category_id": 2,
+      "name": "PETITE EMERALD",
+      "detail": {
+        "price": 200,
+        "sku": "DW00100479",
+        "thickness": "6mm",
+        "dialcolor": "Xanh lục",
+        "movement": "Động cơ chuyển động Quartz",
+        "strap": "Mắt lưới",
+        "strap_color": "Vàng",
+        "img": "https://www.danielwellington.com/product-images/DW00100479_Petite_Em-8SuKKzvA.png?ecom2=true&format=jpg&canvas=1:1&width=960&quality=80&bg-color=FFFFFF"
+      }
+    },
+    {
+      "id": 56,
+      "category_id": 2,
+      "name": "PETITE AMBER",
+      "detail": {
+        "price": 210,
+        "sku": "DW00100476",
+        "thickness": "6mm",
+        "dialcolor": "Nâu",
+        "movement": "Động cơ chuyển động Quartz",
+        "strap": "Mắt lưới",
+        "strap_color": "Vàng hồng",
+        "img": "https://www.danielwellington.com/product-images/DW00100476_Petite_Am-TUctOpEV.png?ecom2=true&format=jpg&canvas=1:1&width=960&quality=80&bg-color=FFFFFF"
+      }
+    },
+    {
+      "id": 57,
+      "category_id": 2,
+      "name": "PETITE UNITONE",
+      "detail": {
+        "price": 220,
+        "sku": "DW00100470",
+        "thickness": "6mm",
+        "dialcolor": "Rose Gold",
+        "movement": "Động cơ chuyển động Quartz",
+        "strap": "Mắt lưới",
+        "strap_color": "Vàng hồng",
+        "img": "https://www.danielwellington.com/product-images/DW00100470_Petite_Un-1ThXRoTD.png?ecom2=true&format=jpg&canvas=1:1&width=960&quality=80&bg-color=FFFFFF"
+      }
+    },
+    {
+      "id": 58,
+      "category_id": 2,
+      "name": "QUADRO PRESSED SUFFOLK",
+      "detail": {
+        "price": 230,
+        "sku": "DW00100454",
+        "thickness": "6mm",
+        "dialcolor": "Trắng sữa",
+        "movement": "Động cơ chuyển động Quartz",
+        "strap": "Dây da",
+        "strap_color": "Cherry Blush Red",
+        "img": "https://www.danielwellington.com/product-images/DW00100454_Main_Imag-OeiINMQ7.png?ecom2=true&format=jpg&canvas=1:1&width=960&quality=80&bg-color=FFFFFF"
+      }
+    },
+    
+    {
+      "id": 59,
+      "category_id": 4,
+      "name": "CLASSIC LUMINE EARRINGS",
+      "detail": {
+        "price": 250,
+        "sku": "DW00400349",
+        "color": "Hồng vàng",
+        "material": "Thép không gỉ (316L) và mạ vàng hồng",
+        "img": "https://www.danielwellington.com/product-images/DW00400349_Classic_L-W5a7BIqp.png?ecom2=true&format=jpg&canvas=1:1&width=960&quality=80&bg-color=FFFFFF"
+      }
+    },
+    {
+      "id": 60,
+      "category_id": 4,
+      "name": "ELAN UNITY BRACELET",
+      "detail": {
+        "price": 260,
+        "sku": "DW00400168",
+        "color": "Hồng vàng",
+        "material": "Thép không gỉ (316L) và mạ vàng hồng",
+        "img": "https://www.danielwellington.com/product-images/dw00400168_elan_unit-v26LiFc1.png?ecom2=true&format=jpg&canvas=1:1&width=960&quality=80&bg-color=FFFFFF"
+      }
+    },
+    {
+      "id": 61,
+      "category_id": 4,
+      "name": "CLASSIC BRACELET TIGER",
+      "detail": {
+        "price": 270,
+        "sku": "DW00400210",
+        "color": "Hồng vàng",
+        "material": "Thép không gỉ mạ hai lớp (316L)",
+        "img": "https://www.danielwellington.com/product-images/tiger_classic_bracel-tCNy1euo.png?ecom2=true&format=jpg&canvas=1:1&width=960&quality=80&bg-color=FFFFFF"
+      }
+    },
+    {
+      "id": 62,
+      "category_id": 3,
+      "name": "CLASSIC RING",
+      "detail": {
+        "price": 280,
+        "sku": "DW00400015",
+        "color": "Hồng vàng",
+        "material": "Thép không gỉ mạ hai lớp (316L)",
+        "img": "https://www.danielwellington.com/product-images/DW00400020_Classic_R-BHFDjG03.png?ecom2=true&format=jpg&canvas=1:1&width=960&quality=80&bg-color=FFFFFF"
+      }
+    },
+    {
+      "id": 63,
+      "category_id": 3,
+      "name": "ELAN TRIAD RING",
+      "detail": {
+        "price": 300,
+        "sku": "DW00400126",
+        "color": "Hồng vàng",
+        "material": "Thép không gỉ (316L) và mạ vàng hồng",
+        "img": "https://www.danielwellington.com/product-images/MicrosoftTeams-image-jY_Ycid1.png?ecom2=true&format=jpg&canvas=1:1&width=960&quality=80&bg-color=FFFFFF"
+      }
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "name": "Đồng hồ nữ"
+    },
+    {
+      "id": 2,
+      "name": "Đồng hồ nam"
+    },
+    {
+      "id": 3,
+      "name": "Phụ kiện"
+    }
+  ]
+}
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+

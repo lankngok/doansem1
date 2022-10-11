@@ -1,0 +1,149 @@
+<app-header></app-header>
+
+<div class="main">
+  <div class="banner">
+    <img
+      src="https://www.danielwellington.com/ecom2-image-bucket/mv3xw5mnbbp0/1lgIQw2CqSqRImM96W8Xat/fd5d2efb44ccbde0e7d628d2a5ce14c5/watches-desk.jpg?ecom2=true&format=jpg&width=1920&quality=80&bg-color=FFFFFF&fbclid=IwAR2ZslFvHCr-af1DbIdFQXvkp0ea5uyebC70WfEiwmKMU36NeOJqXlUg8U4"
+      alt="" class="card-img">
+    <h1 class="contact text-dark">MAN'S SHOP</h1>
+  </div>
+  <div class="container mt-5">
+    <div class="row align-items-center justify-content-between">
+      <div class="col-lg-3 col-md-6 col-sm-12">
+        <div class="card bg-card" style="width: 17rem;">
+          <div class="text-center m-auto">
+            <p class="heading">
+              YOU DESERVE IT
+            </p>
+            <p>USE CODE DWXYOU15 AT CHECKOUT FOR 15% OFF YOUR PURCHASE</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-3 col-md-6 col-sm-12">
+        <div class="card" style="width: 17rem;">
+          <img class="card-img-top"
+            src="https://bizweb.dktcdn.net/thumb/large/100/438/171/products/sp10-c071025e-52d6-4c86-8e35-21f600ee136b.jpg?v=1632724245000"
+            alt="Card image cap">
+          <div class="card-body">
+            <div class="text-center">
+              <p class="h4">Black Link</p>
+            </div>
+            <div class="price d-flex align-items-center justify-content-between">
+              <!-- <p class="card-text opcaity"><del>4,600,000 vnd</del></p>
+              <p class="sale">3,200,000 vnd</p> -->
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-3 col-md-6 col-sm-12">
+        <div class="card" style="width: 17rem;">
+          <img class="card-img-top"
+            src="https://www.danielwellington.com/product-images/DW00100482_Iconic_Li-gTM2-XaQ.png?ecom2=true&format=jpg&canvas=1%3A1&width=960&quality=80&bg-color=FFFFFF&fbclid=IwAR2Vuh0PZHbAY7qqwboTwfx3hQA2KIjhQoGE_xxXi0dfmlXYwgGUdAXT27c"
+            alt="Card image cap">
+          <div class="card-body">
+            <div class="text-center">
+              <p class="h4">Black Link</p>
+            </div>
+            <div class="price d-flex align-items-center justify-content-between">
+              <!-- <p class="card-text opcaity"><del>4,600,000 vnd</del></p> -->
+              <!-- <p class="sale">3,200,000 vnd</p> -->
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-3 col-md-6 col-sm-12">
+        <div class="card" style="width: 17rem;">
+          <img class="card-img-top"
+            src="https://www.danielwellington.com/product-images/DW00100448_Iconic_Li-m5oeO0v9.png?ecom2=true&format=jpg&canvas=1%3A1&width=960&quality=80&bg-color=FFFFFF&fbclid=IwAR1exQVJuDH4m2oR3XVH7eyTF8rj4GUrf7kkMPYLiCK9gsTPnVKhH3d5AJE"
+            alt="Card image cap">
+          <div class="card-body">
+            <div class="text-center">
+              <p class="h4">Black Link</p>
+            </div>
+            <div class="price d-flex align-items-center justify-content-between">
+              <!-- <p class="card-text opcaity"><del>4,600,000 vnd</del></p>
+              <p class="sale">3,200,000 vnd</p> -->
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- filter  -->
+  <div class="filter-gr container mt-5">
+    <div class="d-flex align-items-center">
+      <button class="btn-filter">
+        <i class="fa fa-filter" aria-hidden="true"></i>
+        Filter
+      </button>
+      <button class="btn-filter">
+        <i class="fa fa-sort" aria-hidden="true"></i>
+        Sort by
+      </button>
+    </div>
+  </div>
+
+  <div class="content">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-3 col-md-6 col-sm-12"*ngFor="let item of list">
+          <div class="card cur mt-5" routerLink="/detail/{{item.id}}">
+            <img class="card-img-top" width="255px" height="255px" src="{{item.detail.img}}" alt="">
+            <div class="card-body bg-light">
+              <h5 class="card-title text-center prod_name text-truncate text-dark">{{item.name}}</h5>
+              <div class="prices d-flex text-center justify-content-around">
+                <p class="product-price">
+                  <span class="root-pr"><del>{{item.detail.price}} $</del></span>
+                  <span class="sale-pr">{{(item.detail.price ) - 20 }} $</span>
+                </p>
+              </div>
+              <!-- <div class="icon text-center">
+                <i routerLink="/detail/{{item.id}}" class="fa-solid cur fa-search "></i>
+              </div> -->
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="banner mt-5">
+      <img
+        src="https://www.danielwellington.com/ecom2-image-bucket/mv3xw5mnbbp0/6JMapJS06uKgO5of2JhCQD/df8e32988221568ab13594e6e91d194f/d-black-emalie-collection-hero.jpg?ecom2=true&format=jpg&width=1920&quality=80&bg-color=FFFFFF&fbclid=IwAR22_zGykfuNc_WvyEWxjNoko93gwAg4kAACE4ZRfyY3jIUTIJQl9HXbNSo"
+        alt="" class="card-img">
+      <h5 class="contact1 text-white">EMALIE BỘ SƯU TẬP</h5>
+      <h5 class="contact2 text-white ">A CONTINUATION OF OUR CLASSICS</h5>
+    </div>
+  </div>
+
+  <div class="content ">
+    <div class="container">
+      <div class="text-center">
+        <div class="h3 text-uppercase mt-5">
+          Phụ Kiện
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-lg-3 col-md-6 col-sm-12" *ngFor="let item of listPk">
+          <div class="card cur mt-5" routerLink="/detail/{{item.id}}">
+            <img class="card-img-top" width="255px" height="255px" src="{{item.detail.img}}" alt="">
+            <div class="card-body bg-light">
+              <h5 class="card-title text-center prod_name text-truncate text-dark">{{item.name}}</h5>
+              <div class="prices d-flex text-center justify-content-around">
+                <p class="product-price">
+                  <span class="root-pr"><del>{{item.detail.price}} $</del></span>
+                  <span class="sale-pr">{{(item.detail.price ) - 20 }} $</span>
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+<div class="mt-5">
+  <app-footer></app-footer>
+</div>

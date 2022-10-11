@@ -1,0 +1,101 @@
+<app-header></app-header>
+
+
+<main class="container p-5">
+  <div class="row p-0 justify-content-between align-items-center">
+    <div class="col-lg-6 p-0">
+      <div class="img-product">
+        <img src={{product.detail.img}} alt="" class="card-img">
+      </div>
+    </div>
+
+    <div class="col-lg-6 p-0">
+
+      <div class="prod_name">
+        <p class="h3 text-uppercase">{{product.name}}</p>
+        <p class="text-end h5">{{product.detail.price }} $</p>
+      </div>
+
+      <div class="size">
+        <div class="d-block">
+          <p class="h3 text-uppercase d-block">Size</p>
+        </div>
+        <div class="list_size align-items-center justify-content-between row">
+          <div class="col-lg-6">
+            <div class="row">
+              <div class="col-lg-4 d-flex align-items-center justify-content-between">
+                <a href="#" class="d-inline-block btn-cus actived">
+                  28mm
+                </a>
+                <a href="#" class="d-inline-block btn-cus">
+                  32mm
+                </a>
+                <a href="#" class="d-inline-block btn-cus">
+                  36mm
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-6">
+            <a href="#" class="btn-cuss text-center d-block">
+              About Your Size
+            </a>
+          </div>
+        </div>
+        <button class="btn btn-dark btn-block mt-3" (click)="addToCart(product)">Add To Cart</button>
+      </div>
+
+      <div class="shipping">
+        <p class="h3 text-uppercase">Free ship</p>
+        <p class="h3 text-uppercase">Hoan Tra Mien Phi</p>
+        <p>Thuế và lệ phí hải quan sẽ được áp dụng khi giao hàng theo
+          quy định của Hải Quan Việt Nam.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="details">
+    <div class="text-center">
+      <p class="h2 text-uppercase">Details</p>
+      <div class="border-custom"></div>
+      <p class="w-75 m-auto">Đồng hồ MVMT Black Link dòng Classic với thiết kế tối giản tinh tế cho các quý ông hiện
+        đại. Nhập khẩu chính hãng từ US. Free Ship toàn quốc!</p>
+    </div>
+
+    <div class="table w-50 m-auto">
+      <table class="table">
+        <tr>
+          <td class="font-weight-bold prop">SKU</td>
+          <td class="text-right">{{product.detail.sku}}</td>
+        </tr>
+        <tr>
+          <td class="font-weight-bold prop">Case Thickness</td>
+          <td class="text-right">{{product.detail.thickness}}</td>
+        </tr>
+        <tr>
+          <td class="font-weight-bold prop">Dial Color</td>
+          <td class="text-right">{{product.detail.dialcolor}}</td>
+        </tr>
+        <tr>
+          <td class="font-weight-bold prop">Movement</td>
+          <td class="text-right">{{product.detail.movement}}</td>
+        </tr>
+        <tr>
+          <td class="font-weight-bold prop">Strap</td>
+          <td class="text-right">{{product.detail.strap}}</td>
+        </tr>
+        <tr>
+          <td class="font-weight-bold prop">Strap Color</td>
+          <td class="text-right">{{product.detail.strap_color}}</td>
+        </tr>
+      </table>
+    </div>
+  </div>
+</main>
+
+
+
+
+<div class="mt-5">
+  <app-footer></app-footer>
+</div>

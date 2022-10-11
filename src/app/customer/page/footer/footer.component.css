@@ -1,0 +1,188 @@
+.input input {
+    width: 450px;
+    padding: 5px 10px;
+    border: none;
+    border: 1px solid white;
+}
+
+.input button {
+    padding: 6px 25px;
+    border: none;
+    background-color: black;
+    color: white;
+}
+
+.section {
+    background-color: #f97e6c;
+    padding: 14px;
+}
+
+.section h4 {
+    color: white;
+}
+
+.footer {
+    background-color: black;
+}
+
+.image img {
+    width: 200px;
+}
+
+.address,
+.time,
+.mobie {
+    margin-top: 15px;
+}
+
+.location,
+.clock,
+.phone {
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    background: #f97e6c;
+    color: white;
+    margin-right: 10px;
+}
+
+span {
+    color: #e5e5e5;
+}
+
+h4 {
+    color: white;
+}
+
+.shop i {
+    display: none;
+}
+
+.help i {
+    display: none;
+}
+
+.more i {
+    display: none;
+}
+
+.shop ul {
+    list-style: none;
+    padding: 0px;
+}
+
+.help ul {
+    list-style: none;
+    padding: 0px;
+}
+
+.more ul {
+    list-style: none;
+    padding: 0px;
+}
+
+.shop ul li {
+    margin-top: 15px;
+}
+
+.help ul li {
+    margin-top: 15px;
+}
+
+.more ul li {
+    margin-top: 15px;
+}
+
+.shop ul li a {
+    color: #ecc696;
+    text-decoration: none;
+}
+
+.help ul li a {
+    color: #ecc696;
+    text-decoration: none;
+}
+
+.more ul li a {
+    color: #ecc696;
+    text-decoration: none;
+}
+
+.shop ul li:hover a {
+    color: #f97e6c;
+}
+
+.help ul li:hover a {
+    color: #f97e6c;
+}
+
+.more ul li:hover a {
+    color: #f97e6c;
+}
+
+.social ul {
+    padding: 0px;
+}
+
+.social ul li {
+    display: inline-block;
+    padding: 0px 5px;
+}
+
+.yt,
+.fb,
+.ins {
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    background: #f97e6c;
+    color: white;
+}
+
+@media screen and (max-width:320px) {
+    .section h4 {
+        font-size: 15px;
+    }
+
+    .input input {
+        width: 200px;
+        padding: 5px 8px;
+        border: none;
+        border: 1px solid white;
+    }
+
+    .input button {
+        padding: 6px 15px;
+
+    }
+
+    .row {
+        justify-content: space-between;
+    }
+
+    .shop i {
+        display: block;
+    }
+
+    .help i {
+        display: block;
+    }
+
+    .more i {
+        display: block;
+    }
+
+    .shop ul li a {
+        display: none;
+    }
+
+    .help ul li a {
+        display: none;
+    }
+
+    .more ul li a {
+        display: none;
+    }
+}
